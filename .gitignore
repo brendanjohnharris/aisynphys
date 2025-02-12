@@ -7,3 +7,4 @@ cache
 *.egg-info
 .ipynb_checkpoints
 .mypy_cache
+.CondaPkg

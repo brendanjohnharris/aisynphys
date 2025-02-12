@@ -1,0 +1,22 @@
+[deps]
+sqlalchemy = ""
+matplotlib = ""
+pillow = ""
+statsmodels = ""
+pyyaml = ""
+pip = ""
+pandas = "=1.5.3"
+scikit-learn = ""
+seaborn = ""
+h5py = ""
+psycopg2 = ""
+numba = ""
+jupyter = ""
+python = "=3.10"
+scipy = ""
+scikit-image = ""
+pyqt = ""
+
+[pip.deps]
+pyqtgraph = "==0.12.4"
+lmfit = ""
